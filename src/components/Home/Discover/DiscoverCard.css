@@ -1,0 +1,6 @@
+.movie-card:hover .movie-name {
+  background-color: rebeccapurple;
+}
+.movie-card:hover {
+  transform: scale(1.5);
+}
